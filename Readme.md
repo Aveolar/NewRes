@@ -1,3 +1,0 @@
-#Daily Pratice Assignment - Day 02
-
-creating an html document with an header tag, table tag, anchor tag and paragraph tag...
